@@ -13,6 +13,7 @@
 		DF2082FC2908ED700061B4B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF2082FA2908ED700061B4B8 /* Main.storyboard */; };
 		DF2082FE2908ED710061B4B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF2082FD2908ED710061B4B8 /* Assets.xcassets */; };
 		DF2083012908ED710061B4B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF2082FF2908ED710061B4B8 /* LaunchScreen.storyboard */; };
+		DF5303682908FBBA00219AF2 /* LottoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF5303672908FBBA00219AF2 /* LottoCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DF2082FD2908ED710061B4B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF2083002908ED710061B4B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF2083022908ED710061B4B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF5303672908FBBA00219AF2 /* LottoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottoCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DF2082F62908ED700061B4B8 /* SceneDelegate.swift */,
 				DF2082F82908ED700061B4B8 /* ViewController.swift */,
 				DF2082FA2908ED700061B4B8 /* Main.storyboard */,
+				DF5303672908FBBA00219AF2 /* LottoCell.swift */,
 				DF2082FD2908ED710061B4B8 /* Assets.xcassets */,
 				DF2082FF2908ED710061B4B8 /* LaunchScreen.storyboard */,
 				DF2083022908ED710061B4B8 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF5303682908FBBA00219AF2 /* LottoCell.swift in Sources */,
 				DF2082F92908ED700061B4B8 /* ViewController.swift in Sources */,
 				DF2082F52908ED700061B4B8 /* AppDelegate.swift in Sources */,
 				DF2082F72908ED700061B4B8 /* SceneDelegate.swift in Sources */,
